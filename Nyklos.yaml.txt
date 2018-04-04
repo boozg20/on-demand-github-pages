@@ -1,5 +1,0 @@
----
-githubHandle: Nykelos1
-pageUrl: Nykelos1.github.io
-timestamp: TODAYS-DATE-2018-4-3
----
